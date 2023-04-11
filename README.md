@@ -1,0 +1,1 @@
+# 1.a-1-ile-10-arasindaki-sayilari-yazd-rma.cpp
